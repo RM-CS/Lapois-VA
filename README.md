@@ -1,2 +1,2 @@
 # Lapois-VA
-A  Virtual assistant repo in python
+A  virtual assistant repo in python
